@@ -13,14 +13,15 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in IT in general and the development of applications. i'm also very attracted to artificial intelligence.
 - 🌱 I’m currently learning at OpenClassRoom.
 - 💞️ I’m looking to collaborate on differeents frontend an backend projects in order to improve my skills.
-- 📫 How to reach me [Erik-42](https://www.linkedin.com/in/erik-mesen-3469b71a1/)
-
+- 📫 How to reach me [linkedin-url]
+  
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/Erik-42/openclassrooms_projet_7.git">
-    <img src="./frontend/src/images/Logo.webp" alt="Logo Mon Vieux Grimoire" width="400" height="80">
+    <img src="./frontend/src/images/Logo.webp" alt="Logo Basille_Corp" width="400" height="100">
   </a>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
