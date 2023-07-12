@@ -9,14 +9,11 @@ You can click the Preview link to take a look at your changes.
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-- 👋 Hi, I’m @Erik-42
+- 👋 Hi, I’m @ Erik Mesen
 - 👀 I’m interested in IT in general and the development of applications. i'm also very attracted to artificial intelligence.
 - 🌱 I’m currently learning at OpenClassRoom.
 - 💞️ I’m looking to collaborate on differeents frontend an backend projects in order to improve my skills.
-- 📫 How to reach me     [![LinkedIn][linkedin-shield]][linkedin-url]
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="erik-mesen" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/erik-mesen?trk=profile-badge">Erik Mesen</a></div>
-
-              <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+- 📫 How to reach me  <a href="#contact">Contact</a>
   
 <!-- PROJECT LOGO -->
 <br />
@@ -68,7 +65,7 @@ I am also very attracted to artificial intelligence and its dazzling progress in
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/Erik-42](https://github.com/Erik-42)
+Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -79,9 +76,9 @@ Project Link: [https://github.com/Erik-42](https://github.com/Erik-42)
 [contributors-shield]: https://img.shields.io/github/contributors/Erik-42/openclassrooms_projet_7
 [contributors-url]: https://github.com/Erik-42/openclassrooms_projet_7/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Erik-42/openclassrooms_projet_7
-[forks-url]: https://github.com/Erik-42/openclassrooms_projet_7/network/members
+[forks-url]: https://github.com/Erik-42?tab=projects
 [stars-shield]: https://img.shields.io/github/stars/Erik-42/openclassrooms_projet_7
-[stars-url]: https://github.com/Erik-42/openclassrooms_projet_7/stargazers
+[stars-url]: https://github.com/Erik-42?tab=stars
 [issues-shield]: https://img.shields.io/github/issues-raw/Erik-42/openclassrooms_projet_7
 [issues-url]: https://github.com/Erik-42/openclassrooms_projet_7/issues
 [license-shield]: https://img.shields.io/github/license/Erik-42/openclassrooms_projet_7
