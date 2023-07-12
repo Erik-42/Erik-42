@@ -14,6 +14,8 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning at OpenClassRoom.
 - 💞️ I’m looking to collaborate on differeents frontend an backend projects in order to improve my skills.
 - 📫 How to reach me     [![LinkedIn][linkedin-shield]][linkedin-url]
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="erik-mesen" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/erik-mesen?trk=profile-badge">Erik Mesen</a></div>
+              
   
 <!-- PROJECT LOGO -->
 <br />
