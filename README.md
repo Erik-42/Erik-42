@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in IT in general and the development of applications. i'm also very attracted to artificial intelligence.
 - 🌱 I’m currently learning at OpenClassRoom.
 - 💞️ I’m looking to collaborate on differeents frontend an backend projects in order to improve my skills.
-- 📫 How to reach me [![LinkedIn][linkedin-shield]][linkedin-url]
+- 📫 How to reach me     [![LinkedIn][linkedin-shield]][linkedin-url]
   
 <!-- PROJECT LOGO -->
 <br />
@@ -84,7 +84,7 @@ Project Link: [https://github.com/Erik-42](https://github.com/Erik-42)
 [license-shield]: https://img.shields.io/github/license/Erik-42/openclassrooms_projet_7
 [license-url]: https://github.com/Erik-42/openclassrooms_projet_7/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/erik-mesen-3469b71a1/
+[linkedin-url]: https://www.linkedin.com/in/erik-mesen/
 [product-screenshot]: ./frontend/src/images/screenshot.png
 [Node-url]: https://nodejs.org/
 [Express-url]: http://expressjs.com/
