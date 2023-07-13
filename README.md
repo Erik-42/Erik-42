@@ -56,8 +56,8 @@ What motivated me today to retrain in this field in addition to the passion that
 
 I am also very attracted by cybersecurity in its various aspects such as OSINT or pentest as well as by artificial intelligence and its dazzling progress in recent years.
 
-# Techno
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+# Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
+<p> </p>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
@@ -92,7 +92,8 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 * Apache
 
 <!-- CONTACT -->
-# Contact
+# Contact <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
+
 
 <!-- Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42) -->
 [![Github Badge][Github Badge-shield]][Github Badge-url]
