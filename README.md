@@ -25,12 +25,12 @@ You can click the Preview link to take a look at your changes.
 <br />
   <div align="left">
   <a href="https://github.com/Erik-42">
-    <img src="./images/Logo.webp" alt="Logo Basille_Corp" width="400" height="100">
+    <img src="./images/Logo_M_150x150.webp" alt="Logo Basille_Corp" width="400" height="100">
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/Erik-42">
-    <img src="./images/Logo.webp" alt="ScreenShot" width="400" height="100">
+    <img src="./images/giphy.gif" alt="ScreenShot" width="400" height="100">
   </a>
 </div>
 
