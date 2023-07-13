@@ -5,15 +5,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![GitHub followers][GitHub followers-shield]][GitHub followers-url]
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![GitHub repo file count (file type)][GitHub repo file count (file type)-shield]][GitHub repo file count (file type)-url]
-[![GitHub repo size][GitHub repo size-shield]][GitHub repo size-url]
-[![GitHub all releases][GitHub all releases-shield]][GitHub all releases-url]
 [![GitHub repo][GitHub repo-shield]][GitHub repo-url]
+<!-- [![Contributors][contributors-shield]][contributors-url] -->
+<!-- [![Forks][forks-shield]][forks-url] -->
+<!-- [![Issues][issues-shield]][issues-url] -->
+<!-- [![MIT License][license-shield]][license-url] -->
+<!-- [![GitHub repo file count (file type)][GitHub repo file count (file type)-shield]][GitHub repo file count (file type)-url] -->
+<!-- [![GitHub repo size][GitHub repo size-shield]][GitHub repo size-url] -->
+<!-- [![GitHub all releases][GitHub all releases-shield]][GitHub all releases-url] -->
 
 - 👋 Hi, I’m @ Erik Mesen
 - 👀 I’m interested in IT in general and the development of applications. i'm also very attracted to artificial intelligence.
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <h1>Work</h1>
   <a href="https://github.com/Erik-42">
-    <img src="./images/giphy.gif" alt="ScreenShot" width="400" height="100">
+    <img src="./images/giphy.gif" alt="Work In Progress" width="400" height="100">
   </a>
 </div>
 
@@ -35,20 +35,7 @@ You can click the Preview link to take a look at your changes.
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#bio">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>  
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+      <a href="#bio">Bio</a>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -69,11 +56,46 @@ What motivated me today to retrain in this field in addition to the passion that
 
 I am also very attracted by cybersecurity in its various aspects such as OSINT or pentest as well as by artificial intelligence and its dazzling progress in recent years.
 
+# Techno
+<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'> </a>
+
+
+## Languages
+* HTML
+* CSS
+* Scss
+* JavaScript
+
+## Framework
+* React
+* Node.js
+* Express.js
+
+## Base de données
+* MongoDb
+* MySQL
+
+## Serveur
+* Apache
+
 <!-- CONTACT -->
-## Contact
+# Contact
 
-Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42)
-
+<!-- Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42) -->
+[![Github Badge][Github Badge-shield]][Github Badge-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -81,10 +103,10 @@ Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: ./images/screenshot.png
-
-[GitHub repo-shield]: https://img.shields.io/github/repositories/Erik-42
-[GitHub repo-url]: https://github.com/repositories/Erik-42/
-
+[Github Badge-shield]: https://img.shields.io/badge/Github-Erik--42-155?style=for-the-badge&logo=github
+[Github Badge-url]: https://github.com/Erik-42
+[GitHub repo-shield]: https://img.shields.io/badge/Repositories-22-blue
+[GitHub repo-url]: https://github.com/Erik-42?tab=repositories
 [GitHub repo file count (file type)-shield]: https://img.shields.io/github/directory-file-count/Erik-42/openclassrooms_projet_8
 [GitHub repo file count (file type)-url]:  https://github.com/directory-file-count/Erik-42/openclassrooms_projet_8
 [GitHub followers-shield]: https://img.shields.io/github/followers/Erik-42
@@ -97,8 +119,8 @@ Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42)
 [contributors-url]: https://github.com/Erik-42/openclassrooms_projet_8/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Erik-42/openclassrooms_projet_8
 [forks-url]: https://github.com/Erik-42/openclassrooms_projet_8/forks
-[stars-shield]: https://img.shields.io/github/stars/Erik-42/openclassrooms_projet_8
-[stars-url]: https://github.com/Erik-42/openclassrooms_projet_8/stargazers
+[stars-shield]: https://img.shields.io/github/stars/Erik-42
+[stars-url]: https://github.com/Erik-42?tab=stars
 [issues-shield]: https://img.shields.io/github/issues-raw/Erik-42/openclassrooms_projet_8
 [issues-url]: https://github.com/Erik-42/openclassrooms_projet_8/issues
 [license-shield]: https://img.shields.io/github/license/Erik-42/openclassrooms_projet_8
@@ -113,7 +135,7 @@ Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42)
 [JavaScript-url]: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
 [Node-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [Node-url]: https://nodejs.org/
-[Ex^ress-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[Express-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [Express-url]: http://expressjs.com/
 [MongoDB-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [MongoDB-url]: https://www.mongodb.com/
