@@ -23,12 +23,8 @@ You can click the Preview link to take a look at your changes.
   
 <!-- PROJECT LOGO -->
 <br />
-  <div align="left">
-  <a href="https://github.com/Erik-42">
-    <img src="./images/Logo_M_150x150.webp" alt="Logo Basille_Corp" width="400" height="100">
-  </a>
-</div>
 <div align="center">
+  <h1>Work</h1>
   <a href="https://github.com/Erik-42">
     <img src="./images/giphy.gif" alt="ScreenShot" width="400" height="100">
   </a>
@@ -86,7 +82,7 @@ Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42)
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: ./images/screenshot.png
 
-[GitHub repo-shield]]: https://img.shields.io/github/repositories/Erik-42
+[GitHub repo-shield]: https://img.shields.io/github/repositories/Erik-42
 [GitHub repo-url]: https://github.com/repositories/Erik-42/
 
 [GitHub repo file count (file type)-shield]: https://img.shields.io/github/directory-file-count/Erik-42/openclassrooms_projet_8
