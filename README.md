@@ -3,11 +3,17 @@
 Erik-42/Erik-42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![GitHub followers][GitHub followers-shield]][GitHub followers-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![GitHub repo file count (file type)][GitHub repo file count (file type)-shield]][GitHub repo file count (file type)-url]
+[![GitHub repo size][GitHub repo size-shield]][GitHub repo size-url]
+[![GitHub all releases][GitHub all releases-shield]][GitHub all releases-url]
+[![GitHub repo][GitHub repo-shield]][GitHub repo-url]
 
 - 👋 Hi, I’m @ Erik Mesen
 - 👀 I’m interested in IT in general and the development of applications. i'm also very attracted to artificial intelligence.
@@ -17,9 +23,14 @@ You can click the Preview link to take a look at your changes.
   
 <!-- PROJECT LOGO -->
 <br />
+  <div align="left">
+  <a href="https://github.com/Erik-42">
+    <img src="./images/Logo.webp" alt="Logo Basille_Corp" width="400" height="100">
+  </a>
+</div>
 <div align="center">
   <a href="https://github.com/Erik-42">
-    <img src="./frontend/src/images/Logo.webp" alt="Logo Basille_Corp" width="400" height="100">
+    <img src="./images/Logo.webp" alt="ScreenShot" width="400" height="100">
   </a>
 </div>
 
@@ -49,18 +60,18 @@ You can click the Preview link to take a look at your changes.
 # Bio
 
 ### fr
-Je suis passionné d’informatique et autodidacte dans le domaine depuis ma plus tendre enfance. Je suis de cette génération qui a connus les premiers ordinateurs et grandit avec, petit je passais des heures à démonter, remonter et paramétrer le mien pour en comprendre le fonctionnement.
+Je suis passionné d’informatique et autodidacte dans le domaine depuis ma plus tendre enfance. Je suis de cette génération qui a connus les premiers ordinateurs et grandit avec, petit je passais des heures à démonter, remonter et paramétrer les miens pour en comprendre le fonctionnement.
 
-Ce qui m'a motivé aujourd’hui à me reconvertir dans ce domaine outre la passion qui m’anime c’est la soif de savoir, de curiosité et de création, dans le développement d'applications frontend et backend.
+Ce qui m'a motivé aujourd’hui à me reconvertir dans ce domaine, outre la passion qui m’anime, c’est la soif de savoir, de curiosité et de création, dans le développement d'applications frontend et backend.
 
-Je suis également très attiré par les intelligence artificielles et leurs progrès fulgurants ces dernières années.
+Je suis également très attiré par la cybersécurité sous ces différents aspect comme l'OSINT ou le pentest ainsi que par les intelligence artificielles et leurs progrès fulgurants ces dernières années.
 
 ### en
 I am passionate about computers and self-taught in the field since my childhood. I am of this generation who knew the first computers and grew up with them, I spent hours dismantling, reassembling and configuring mine to understand how it worked.
 
 What motivated me today to retrain in this field in addition to the passion that drives me is the thirst for knowledge, curiosity and creation, in the development of frontend and backend applications.
 
-I am also very attracted to artificial intelligence and its dazzling progress in recent years.
+I am also very attracted by cybersecurity in its various aspects such as OSINT or pentest as well as by artificial intelligence and its dazzling progress in recent years.
 
 <!-- CONTACT -->
 ## Contact
@@ -73,20 +84,40 @@ Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Erik-42/openclassrooms_projet_7
-[contributors-url]: https://github.com/Erik-42/openclassrooms_projet_7/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Erik-42/openclassrooms_projet_7
-[forks-url]: https://github.com/Erik-42?tab=projects
-[stars-shield]: https://img.shields.io/github/stars/Erik-42/openclassrooms_projet_7
-[stars-url]: https://github.com/Erik-42?tab=stars
-[issues-shield]: https://img.shields.io/github/issues-raw/Erik-42/openclassrooms_projet_7
-[issues-url]: https://github.com/Erik-42/openclassrooms_projet_7/issues
-[license-shield]: https://img.shields.io/github/license/Erik-42/openclassrooms_projet_7
+[product-screenshot]: ./images/screenshot.png
+
+[GitHub repo-shield]]: https://img.shields.io/github/repositories/Erik-42
+[GitHub repo-url]: https://github.com/repositories/Erik-42/
+
+[GitHub repo file count (file type)-shield]: https://img.shields.io/github/directory-file-count/Erik-42/openclassrooms_projet_8
+[GitHub repo file count (file type)-url]:  https://github.com/directory-file-count/Erik-42/openclassrooms_projet_8
+[GitHub followers-shield]: https://img.shields.io/github/followers/Erik-42
+[GitHub followers-url]: https://github.com/followers/Erik-42
+[GitHub all releases-shield]: https://img.shields.io/github/downloads/Erik-42/openclassrooms_projet_8/total
+[GitHub all releases-url]: https://github.com/Erik-42/openclassrooms_projet_8/releases
+[GitHub repo size-shield]: https://img.shields.io/github/repo-size/Erik-42/openclassrooms_projet_8
+[GitHub repo size-url]: https://github.com/Erik-42/openclassrooms_projet_8
+[contributors-shield]: https://img.shields.io/github/contributors/Erik-42/openclassrooms_projet_8
+[contributors-url]: https://github.com/Erik-42/openclassrooms_projet_8/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Erik-42/openclassrooms_projet_8
+[forks-url]: https://github.com/Erik-42/openclassrooms_projet_8/forks
+[stars-shield]: https://img.shields.io/github/stars/Erik-42/openclassrooms_projet_8
+[stars-url]: https://github.com/Erik-42/openclassrooms_projet_8/stargazers
+[issues-shield]: https://img.shields.io/github/issues-raw/Erik-42/openclassrooms_projet_8
+[issues-url]: https://github.com/Erik-42/openclassrooms_projet_8/issues
+[license-shield]: https://img.shields.io/github/license/Erik-42/openclassrooms_projet_8
 [license-url]: https://github.com/Erik-42/openclassrooms_projet_7/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/erik-mesen/
-[product-screenshot]: ./frontend/src/images/screenshot.png
-[Node-url]: https://nodejs.org/
-[Express-url]: http://expressjs.com/
-[MongoDB-url]: https://www.mongodb.com/
+[HTML-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[HTML-url]: https://html.spec.whatwg.org/
+[CSS-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[CSS-url]: https://www.w3.org/TR/CSS/#css
+[JavaScript-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [JavaScript-url]: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+[Node-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[Node-url]: https://nodejs.org/
+[Ex^ress-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[Express-url]: http://expressjs.com/
+[MongoDB-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[MongoDB-url]: https://www.mongodb.com/
