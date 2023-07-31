@@ -42,6 +42,7 @@ You can click the Preview link to take a look at your changes.
       </ul>
     </li>
     <li><a href="#skills">Skills</a></li>
+    <li><a href="#Works">Skills</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -80,23 +81,19 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'> </a>
 
 
-<!-- ## Languages
-* HTML
-* CSS
-* Scss
-* JavaScript
+# Works
+<h3> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Erik_42&compact=True"/>
+</a>
+<br>
 
-## Framework
-* React
-* Node.js
-* Express.js
+<h3> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h3>
 
-## Base de données
-* MongoDb
-* MySQL
+![Metrics](https://metrics.lecoq.io/Erik-42?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
-## Serveur
-* Apache -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTACT -->
 # Contact <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
