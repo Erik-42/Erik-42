@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 [![GitHub followers][GitHub followers-shield]][GitHub followers-url]
 [![Stargazers][stars-shield]][stars-url]
 [![GitHub repo][GitHub repo-shield]][GitHub repo-url]
-[![wakatime](https://wakatime.com/badge/user/a7f49ac0-396b-43df-bdbd-01099e48c983.svg)](https://wakatime.com/@a7f49ac0-396b-43df-bdbd-01099e48c983)
+[![wakatime][wakatime-shield]][wakatime-url]
 <!-- [![Contributors][contributors-shield]][contributors-url] -->
 <!-- [![Forks][forks-shield]][forks-url] -->
 <!-- [![Issues][issues-shield]][issues-url] -->
@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <!-- [![GitHub all releases][GitHub all releases-shield]][GitHub all releases-url] -->
 
 - 👋 Hi, I’m @ Erik Mesen
-- 👀 I’m interested in IT in general and the development of applications. i'm also very attracted to artificial intelligence.
+- 👀 I’m interested in IT in general and the development of applications. I'm also very attracted by cyber security, OSINT and pentest but also by artificial intelligence.
 - 🌱 I’m currently learning at OpenClassRoom.
 - 💞️ I’m looking to collaborate on differeents frontend an backend projects in order to improve my skills.
 - 📫 How to reach me  <a href="#contact">Contact</a>
@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
       </ul>
     </li>
     <li><a href="#skills">Skills</a></li>
-    <li><a href="#Works">Skills</a></li>
+    <li><a href="#Works">Works</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -63,6 +63,7 @@ I am passionate about computers and self-taught in the field since my childhood.
 What motivated me today to retrain in this field in addition to the passion that drives me is the thirst for knowledge, curiosity and creation, in the development of frontend and backend applications.
 
 I am also very attracted by cybersecurity in its various aspects such as OSINT or pentest as well as by artificial intelligence and its dazzling progress in recent years.
+
 
 # Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
 <p> </p>
@@ -104,6 +105,16 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 [![Github Badge][Github Badge-shield]][Github Badge-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+Malt: https://www.malt.fr/profile/erikmesen
+
+Fiverr: https://fr.fiverr.com/erikmesen
+
+erik.mesen@basillecorp.dev
+
+https://erik-42.github.io/
+
+<!-- basillecorp.dev -->
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -140,6 +151,8 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 [HTML-url]: https://html.spec.whatwg.org/
 [CSS-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [CSS-url]: https://www.w3.org/TR/CSS/#css
+[Tailwind-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[Tailwind-url]: https://www.w3.org/TR/CSS/#css
 [JavaScript-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [JavaScript-url]: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
 [Node-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
