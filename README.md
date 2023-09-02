@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning at OpenClassRoom.
 - 💞️ I’m looking to collaborate on differeents frontend an backend projects in order to improve my skills.
 - 📫 How to reach me  <a href="#contact">Contact</a>
+- 🌐 My website : [basillecorp.dev](http://basillecorp.dev/) 
   
 <!-- PROJECT LOGO -->
 <br />
@@ -113,9 +114,7 @@ Fiverr: https://fr.fiverr.com/erikmesen
 
 erik.mesen@basillecorp.dev
 
-https://erik-42.github.io/
-
-<!-- basillecorp.dev -->
+http://basillecorp.dev/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
