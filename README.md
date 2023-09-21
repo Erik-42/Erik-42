@@ -93,7 +93,11 @@ Apache
 
 # Certificate
 
-[![Python Badge][Python Badge-shield]][Python Badge-url]
+ <a href="https://openbadgepassport.com/app/badge/info/611598">
+    <img src="./images/python-des-fondamentaux-aux-concepts-avanca-s-du-langage-universita-ca-te-d-azur-et-inria-badge-de-ra-ussite-de-la-formation" alt="Python Badge" width="200" height="270">
+  </a>
+  
+[![Python][Python Badge-shield]][Python Badge-url]
 
 
 
