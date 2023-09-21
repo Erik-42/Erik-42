@@ -94,12 +94,11 @@ Apache
 # Certificate
 
  <a href="https://openbadgepassport.com/app/badge/info/611598">
-    <img src="./images/python-des-fondamentaux-aux-concepts-avanca-s-du-langage-universita-ca-te-d-azur-et-inria-badge-de-ra-ussite-de-la-formation" alt="Python Badge" width="200" height="270">
-  </a>
+ <p>PYTHON : DES FONDAMENTAUX AUX CONCEPTS AVANCÉS<br>(UNIVERSITÉ CÔTE D'AZUR ET INRIA)</p> 
+    <img src="./images/python-des-fondamentaux-aux-concepts-avanca-s-du-langage-universita-ca-te-d-azur-et-inria-badge-de-ra-ussite-de-la-formation.svg" alt="Python Badge" width="100" height="135">   
+  </a> 
   
-[![Python][Python Badge-shield]][Python Badge-url]
-
-
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
