@@ -91,7 +91,13 @@ Drupal
 
 Apache
 
+# Certificate
 
+[![Python Badge][Python Badge-shield]][Python Badge-url]
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Works
 <h3> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h3>
@@ -131,6 +137,8 @@ http://basillecorp.dev/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: ./images/screenshot.png
 
+[Python Badge-shield]: https://openbadgepassport.com/app/badge/info/611598/pic/embed
+[Python Badge-url]: https://openbadgepassport.com/app/badge/info/611598
 [wakatime-shield]: https://wakatime.com/badge/user/f84d00d8-fee3-4ca3-803d-3daa3c7053a5.svg
 [wakatime-url]: https://wakatime.com/@f84d00d8-fee3-4ca3-803d-3daa3c7053a5
 [Github Badge-shield]: https://img.shields.io/badge/Github-Erik--42-155?style=for-the-badge&logo=github
