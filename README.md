@@ -17,7 +17,8 @@ You can click the Preview link to take a look at your changes.
 <!-- [![GitHub all releases][GitHub all releases-shield]][GitHub all releases-url] -->
 
 - 👋 Hi, I’m @ Erik Mesen
-- 👀 I’m interested in IT in general and the development of applications. I'm also very attracted by cyber security, OSINT and pentest but also by artificial intelligence.
+- 👀 I’m interested in IT in general and the development of applications.
+      I'm also very attracted by cyber security, OSINT and pentest but also by artificial intelligence.
 - 🌱 I’m currently learning at OpenClassRoom.
 - 💞️ I’m looking to collaborate on differeents frontend an backend projects in order to improve my skills.
 - 📫 How to reach me  <a href="#contact">Contact</a>
@@ -43,7 +44,7 @@ You can click the Preview link to take a look at your changes.
       </ul>
     </li>
     <li><a href="#skills">Skills</a></li>
-    <li><a href="#Works">Works</a></li>
+    <li><a href="#works">Works</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -55,18 +56,23 @@ You can click the Preview link to take a look at your changes.
 Je suis passionné d’informatique et autodidacte dans le domaine depuis ma plus tendre enfance. Je suis de cette génération qui a connus les premiers ordinateurs et grandit avec, petit je passais des heures à démonter, remonter et paramétrer les miens pour en comprendre le fonctionnement.
 
 Ce qui m'a motivé aujourd’hui à me reconvertir dans ce domaine, outre la passion qui m’anime, c’est la soif de savoir, de curiosité et de création, dans le développement d'applications frontend et backend.
-Je maitrise également l'installation et la maintenance de serveurs et réseaux physique et virtuels ainsi que leurs configuration.
+
+Je maitrise également l'installation, la maintenance de serveurs et de réseaux aussi bien physique que virtuels ainsi que leurs configuration.
+
 Je suis également très attiré par la cybersécurité sous ces différents aspect comme l'OSINT ou le pentest ainsi que par les intelligence artificielles et leurs progrès fulgurants ces dernières années.
 
 ### English
 I am passionate about computers and self-taught in the field since my childhood. I am of this generation who knew the first computers and grew up with them, I spent hours dismantling, reassembling and configuring mine to understand how it worked.
 
 What motivated me today to retrain in this field in addition to the passion that drives me is the thirst for knowledge, curiosity and creation, in the development of frontend and backend applications.
-I also master the installation and maintenance of physical and virtual servers and networks as well as their configuration.
+
+I also master the installation, maintenance of physical and virtual servers and networks as well as their configuration.
+
 I am also very attracted by cybersecurity in its various aspects such as OSINT or pentest as well as by artificial intelligence and its dazzling progress in recent years.
 
 
-# Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
+# Skills 
+<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
 <p> </p>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
@@ -117,7 +123,8 @@ Apache
 
 
 <!-- CONTACT -->
-# Contact <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
+# Contact 
+<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
 
 
 <!-- Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42) -->
