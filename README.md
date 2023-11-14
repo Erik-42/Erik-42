@@ -100,11 +100,11 @@ Apache
 # Certificate
 
  <a href="https://openbadgepassport.com/app/badge/info/611598">
- <p>PYTHON : DES FONDAMENTAUX AUX CONCEPTS AVANCÉS<br>(UNIVERSITÉ CÔTE D'AZUR ET INRIA)</p> 
+ <p>Python : Des fondamentaux aux concepts avancés<br>(Université Côte d'Azur et INRIA)</p> 
     <img src="./images/python-des-fondamentaux-aux-concepts-avanca-s-du-langage-universita-ca-te-d-azur-et-inria-badge-de-ra-ussite-de-la-formation.svg" alt="Python Badge" width="100" height="135">   
   </a> <a href="#">
  <p>Developpeur web<br>(OpenClassRoom)</p> 
-    <img src="./images/Diplome Oc Erik anonyme dev web.png" alt="Diplome Developpeur web OpenClassRoom" width="100" height="135">   
+    <img src="./images/Diplome Oc Erik anonyme dev web.png" alt="Diplome Developpeur web OpenClassRoom" width="135" height="100">   
   </a>
   
 
