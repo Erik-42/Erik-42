@@ -71,8 +71,7 @@ I also master the installation, maintenance of physical and virtual servers and 
 I am also very attracted by cybersecurity in its various aspects such as OSINT or pentest as well as by artificial intelligence and its dazzling progress in recent years.
 
 
-# Skills 
-<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
+# Skills       <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
 <p> </p>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
@@ -123,8 +122,7 @@ Apache
 
 
 <!-- CONTACT -->
-# Contact 
-<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
+# Contact       <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
 
 
 <!-- Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42) -->
