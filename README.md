@@ -148,17 +148,17 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <div style="display:flex; align-items:center;justify-content:flex-start; gap:5px">
+
+<div style="display:flex; align-items:center;justify-content:flex-start; gap:5px">
 <a href="https://gitlab.com/Erik-42">
     <img src="./images/logos/GitLab_logo.svg" alt="Fiverr" width="75" height="18">
   </a>
-<p>https://gitlab.com/Erik-42</p>
 </div>
 
 <div style="display:flex; align-items:center; gap:5px">
 <a href="https://www.malt.fr/profile/erikmesen">
     <img src="./images/logos/malt-logo-red.svg" alt="Malt" width="75" height="18">
   </a>
-<p>https://www.malt.fr/profile/erikmesen</p>
 </div>
 
 <div style="display:flex; align-items:center; gap:5px">
@@ -166,7 +166,9 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
     <img src="./images/logos/fiverr-1280x720.svg" alt="Fiverr
     " width="75" height="18" style="background-color:grey">
   </a>
-  <p>https://fr.fiverr.com/erikmesen</p>
+</div>
+
+
 </div>
 
 <div style="display:flex; align-items:center; gap:5px">
@@ -184,7 +186,6 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
   </a>
   <p>https://basillecorp.dev</p>
 </div>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
