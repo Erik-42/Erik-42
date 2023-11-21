@@ -22,16 +22,17 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning at OpenClassRoom.
 - 💞️ I’m looking to collaborate on differeents frontend an backend projects in order to improve my skills.
 - 📫 How to reach me  <a href="#contact">Contact</a>
-- 🌐 My website : [basillecorp.dev](http://basillecorp.dev/) 
+- 🌐 My website : [basillecorp.dev](https://basillecorp.dev/) 
   
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <h1>Work</h1>
   <a href="https://github.com/Erik-42">
-    <img src="./images/giphy.gif" alt="Work In Progress" width="400" height="100">
+    <img src="./images/divers/giphy.gif" alt="Work In Progress" width="400" height="100">
   </a>
 </div>
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -44,6 +45,7 @@ You can click the Preview link to take a look at your changes.
       </ul>
     </li>
     <li><a href="#skills">Skills</a></li>
+    <li><a href="#certificate">Certificate</a></li>
     <li><a href="#works">Works</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -74,51 +76,62 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 # Skills
 <!--<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>-->
 <p> </p>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Erik-42?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
-<a href= https://github.com/Erik-42?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='./images/logos/html-1280x720.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='./images/logos/css3-1280x720.svg'> </a>
+<a href= https://github.com/Erik-42?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' height='32px' src ='./images/logos/Scss-1280x720.svg'> </a>
+<a href= https://github.com/Erik-42?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' height='32px' src ='./images/logos/tailwindcss-1280x720.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='./images/logos/javascript-1280x720.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='./images/logos/React-1280x720.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg' style="background-color:grey; border-radius:10px"> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=nginx&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=php&sort= > <img width ='40px' height='40px' src ='images/logos/php-logo-1280x720.png'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='./images/logos/MySql-1280x720.png' style="background-color:grey;border-radius:5px " > </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'> </a>
-
-Joomla
-
-Drupal
-
-Apache
-
-# Certificate
-
- <a href="https://openbadgepassport.com/app/badge/info/611598">
- <p>Python : Des fondamentaux aux concepts avancés<br>(Université Côte d'Azur et INRIA)</p> 
-    <img src="./images/python-des-fondamentaux-aux-concepts-avanca-s-du-langage-universita-ca-te-d-azur-et-inria-badge-de-ra-ussite-de-la-formation.svg" alt="Python Badge" width="100" height="135">   
-  </a> <a href="#">
- <p>Developpeur web<br>(OpenClassRoom)</p> 
-    <img src="./images/Diplome Oc Erik anonyme dev web.png" alt="Diplome Developpeur web OpenClassRoom" width="135" height="100">   
-  </a>
-  
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='56px' height='56px' src ='./images/logos/wordpress-1280x720.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=joomla&sort= > <img width ='32px' height='32px' src ='./images/logos/joomla-1280x720.png'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=drupal&sort= > <img width ='32px' height='32px' src ='./images/logos/druplicon-large.png'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=apache&sort= > <img width ='32px' height='32px' src ='./images/logos/apache-logo-1280x720.png'> </a>
+<p></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+# Certificate
+
+<div style="display:flex; align-items:center; gap:25px">
+<a href="#">
+ <p>Developpeur web<br>(OpenClassRoom)</p> 
+    <img src="./images/certifs/Diplome Oc Erik anonyme dev web.png" alt="Diplome Developpeur web OpenClassRoom" width="135" height="100">   
+  </a>
+  
+ <a href="https://openbadgepassport.com/app/badge/info/611598">
+ <p>Python : Des fondamentaux aux concepts avancés<br>(Université Côte d'Azur et INRIA)</p> 
+    <img src="./images/certifs/python-des-fondamentaux-aux-concepts-avanca-s-du-langage-universita-ca-te-d-azur-et-inria-badge-de-ra-ussite-de-la-formation.svg" alt="Python Badge" width="100" height="135">   
+  </a>
+</div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 # Works
-<h3> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h3>
+
+<h3> Stuff I worked on last week  
+<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> 
+</h3>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Erik_42&compact=True"/>
 </a>
 <br>
 
-<h3> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h3>
+<h3> My GitHub Stats 
+<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> 
+</h3>
 
 ![Metrics](https://metrics.lecoq.io/Erik-42?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
@@ -134,15 +147,43 @@ Apache
 [![Github Badge][Github Badge-shield]][Github Badge-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-https://gitlab.com/Erik-42
+<div style="display:flex; align-items:center;justify-content:flex-start; gap:5px">
+<a href="https://gitlab.com/Erik-42">
+    <img src="./images/logos/GitLab_logo.svg" alt="Fiverr" width="75" height="18">
+  </a>
+<p>https://gitlab.com/Erik-42</p>
+</div>
 
-Malt: https://www.malt.fr/profile/erikmesen
+<div style="display:flex; align-items:center; gap:5px">
+<a href="https://www.malt.fr/profile/erikmesen">
+    <img src="./images/logos/malt-logo-red.svg" alt="Malt" width="75" height="18">
+  </a>
+<p>https://www.malt.fr/profile/erikmesen</p>
+</div>
 
-Fiverr: https://fr.fiverr.com/erikmesen
+<div style="display:flex; align-items:center; gap:5px">
+<a href="https://fr.fiverr.com/erikmesen">
+    <img src="./images/logos/fiverr-1280x720.svg" alt="Fiverr
+    " width="75" height="18" style="background-color:grey">
+  </a>
+  <p>https://fr.fiverr.com/erikmesen</p>
+</div>
 
-erik.mesen@basillecorp.dev
+<div style="display:flex; align-items:center; gap:5px">
+<a href="mailto:mesen.erik@gmail.com">
+    <img src="./images/logos/logo-gmail-1024.png" alt="Gmail
+    " width="32" height="32">
+  </a>
+  <p>mesen.erik@gmail.com</p>
+</div>
 
-http://basillecorp.dev/
+<div style="display:flex; align-items:center; gap:5px">
+<a href="https://basillecorp.dev">
+    <img src="./images/logos/siteweb.png" alt="Gmail
+    " width="58" height="40">
+  </a>
+  <p>https://basillecorp.dev</p>
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
