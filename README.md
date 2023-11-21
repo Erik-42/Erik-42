@@ -146,7 +146,6 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 <!-- Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42) -->
 [![Github Badge][Github Badge-shield]][Github Badge-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 <div style="display:flex; align-items:center;justify-content:flex-start; gap:5px">
 
 <div style="display:flex; align-items:center;justify-content:flex-start; gap:5px">
