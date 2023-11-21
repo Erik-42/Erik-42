@@ -74,7 +74,10 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 
 
 # Skills
+
 <!--<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>-->
+<div style="display:flex;align-items:center;flex-wrap:wrap;gap:5px">
+
 <p> </p>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='./images/logos/html-1280x720.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='./images/logos/css3-1280x720.svg'> </a>
@@ -86,6 +89,7 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg' style="background-color:grey; border-radius:10px"> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=nginx&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=apache&sort= > <img width ='32px' height='32px' src ='./images/logos/apache-logo-1280x720.png'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=php&sort= > <img width ='40px' height='40px' src ='images/logos/php-logo-1280x720.png'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='./images/logos/MySql-1280x720.png' style="background-color:grey;border-radius:5px " > </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -95,9 +99,9 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='56px' height='56px' src ='./images/logos/wordpress-1280x720.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=joomla&sort= > <img width ='32px' height='32px' src ='./images/logos/joomla-1280x720.png'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=drupal&sort= > <img width ='32px' height='32px' src ='./images/logos/druplicon-large.png'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=apache&sort= > <img width ='32px' height='32px' src ='./images/logos/apache-logo-1280x720.png'> </a>
-<p></p>
 
+<p></p>
+</div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
