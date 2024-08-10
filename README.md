@@ -3,7 +3,8 @@
 Erik-42/Erik-42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<div align="center">
+      
 [![GitHub followers][GitHub followers-shield]][GitHub followers-url]
 [![Stargazers][stars-shield]][stars-url]
 [![GitHub repo][GitHub repo-shield]][GitHub repo-url]
@@ -15,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 <!-- [![GitHub repo file count (file type)][GitHub repo file count (file type)-shield]][GitHub repo file count (file type)-url] -->
 <!-- [![GitHub repo size][GitHub repo size-shield]][GitHub repo size-url] -->
 <!-- [![GitHub all releases][GitHub all releases-shield]][GitHub all releases-url] -->
+</div>
 
 - 👋 Hi, I’m @ Erik Mesen
 - 👀 I’m interested in IT in general and the development of applications.
@@ -148,7 +150,7 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 
 
 <!-- Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42) -->
-<div style="display:flex; align-items:center;justify-content:flex-start; gap:1rem">
+<div align="center">
       
   [![Github Badge][Github Badge-shield]][Github Badge-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
