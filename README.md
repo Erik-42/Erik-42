@@ -109,7 +109,7 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 
 <div style="display:flex; align-items:center; gap:25px">
 <a href="#">
- <p>Developpeur web<br>(OpenClassRoom)</p> 
+ <p>Developpeur web (OpenClassRoom)</p> 
     <img src="./images/certifs/Diplome Oc Erik anonyme dev web.png" alt="Diplome Developpeur web OpenClassRoom" width="135" height="100">   
   </a>
   
@@ -148,48 +148,38 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 
 
 <!-- Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42) -->
-[![Github Badge][Github Badge-shield]][Github Badge-url]
+<div style="display:flex; align-items:center;justify-content:flex-start; gap:1rem">
+      
+  [![Github Badge][Github Badge-shield]][Github Badge-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-<div style="display:flex; align-items:center;justify-content:flex-start; gap:5px">
-
-<div style="display:flex; align-items:center;justify-content:flex-start; gap:5px">
 <a href="https://gitlab.com/Erik-42">
-    <img src="./images/logos/GitLab_logo.svg" alt="Fiverr" width="75" height="18">
+    <img src="./images/logos/GitLab_logo.svg" alt="Fiverr" width="100" height="30">
   </a>
-</div>
+<a href="https://basillecorp.dev">
+    <img src="./images/logos/siteweb.png" alt="Gmail
+    " width="58" height="40">
+  </a>
+  <a href="mailto:mesen.erik@gmail.com">
+    <img src="./images/logos/logo-gmail-1024.png" alt="Gmail
+    " width="32" height="32">
+  </a>
+  </div>
+  
+<div style="display:flex; align-items:center;justify-content:flex-start; gap:1rem">
 
-<div style="display:flex; align-items:center; gap:5px">
+<div style="display:flex; align-items:center; gap:1rem">
 <a href="https://www.malt.fr/profile/erikmesen">
     <img src="./images/logos/malt-logo-red.svg" alt="Malt" width="75" height="18">
   </a>
 </div>
-
-<div style="display:flex; align-items:center; gap:5px">
+<div style="display:flex; align-items:center; gap:1rem">
 <a href="https://fr.fiverr.com/erikmesen">
     <img src="./images/logos/fiverr-1280x720.svg" alt="Fiverr
     " width="75" height="18" style="background-color:grey">
   </a>
 </div>
-
-
 </div>
 
-<div style="display:flex; align-items:center; gap:5px">
-<a href="mailto:mesen.erik@gmail.com">
-    <img src="./images/logos/logo-gmail-1024.png" alt="Gmail
-    " width="32" height="32">
-  </a>
-  <p>mesen.erik@gmail.com</p>
-</div>
-
-<div style="display:flex; align-items:center; gap:5px">
-<a href="https://basillecorp.dev">
-    <img src="./images/logos/siteweb.png" alt="Gmail
-    " width="58" height="40">
-  </a>
-  <p>https://basillecorp.dev</p>
-</div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
