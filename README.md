@@ -116,7 +116,7 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
   </a>
   
  <a href="https://openbadgepassport.com/app/badge/info/611598">
- <p>Python : Des fondamentaux aux concepts avancés<br>(Université Côte d'Azur et INRIA)</p> 
+ <p>Python : Des fondamentaux aux concepts avancés<br>(INRIA)</p> 
     <img src="./images/certifs/python-des-fondamentaux-aux-concepts-avanca-s-du-langage-universita-ca-te-d-azur-et-inria-badge-de-ra-ussite-de-la-formation.svg" alt="Python Badge" width="100" height="135">   
   </a>
 </div>
