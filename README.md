@@ -111,7 +111,7 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 
 <div style="display:flex; align-items:center; gap:25px">
 <a href="#">
- <p>Developpeur web (OpenClassRoom)</p> 
+ <p>Développeur intégrateur web (OpenClassRoom)</p> 
     <img src="./images/certifs/Diplome Oc Erik anonyme dev web.png" alt="Diplome Developpeur web OpenClassRoom" width="135" height="100">   
   </a>
   
