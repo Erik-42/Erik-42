@@ -109,7 +109,7 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 
 # Certificate
 
-<div style="display:flex; align-items:center; gap:25px">
+<div style="display:flex; align-items:center; gap:2rem">
 <a href="#">
  <p>Développeur intégrateur web (OpenClassRoom)</p> 
     <img src="./images/certifs/Diplome Oc Erik anonyme dev web.png" alt="Diplome Developpeur web OpenClassRoom" width="135" height="100">   
@@ -149,43 +149,45 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 <!--<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>-->
 
 
-<!-- Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42) -->
-<div align="center">
+<div align="center"; style="display:flex; align-items:center; gap:2rem">
       
-  [![Github Badge][Github Badge-shield]][Github Badge-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 <a href="https://gitlab.com/Erik-42">
-    <img src="./images/logos/GitLab_logo.svg" alt="Fiverr" width="100" height="30">
-  </a>
+    <img src="./images/logos/GitLab_logo.svg" alt="Gitlab" width="100" height="30">
+</a>
+<br/>
+<p></p>
+  
+[![Github Badge][Github Badge-shield]][Github Badge-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+<br/>
+
 <a href="https://basillecorp.dev">
-    <img src="./images/logos/siteweb.png" alt="Gmail
+    <img src="./images/logos/siteweb.png" alt="WebSite
     " width="58" height="40">
   </a>
+
   <a href="mailto:mesen.erik@gmail.com">
     <img src="./images/logos/logo-gmail-1024.png" alt="Gmail
     " width="32" height="32">
   </a>
-  </div>
-  
-<div style="display:flex; align-items:center;justify-content:flex-start; gap:1rem">
+<br/>
 
-<div style="display:flex; align-items:center; gap:1rem">
 <a href="https://www.malt.fr/profile/erikmesen">
     <img src="./images/logos/malt-logo-red.svg" alt="Malt" width="75" height="18">
-  </a>
-</div>
-<div style="display:flex; align-items:center; gap:1rem">
+</a>
+
 <a href="https://fr.fiverr.com/erikmesen">
     <img src="./images/logos/fiverr-1280x720.svg" alt="Fiverr
     " width="75" height="18" style="background-color:grey">
 </a>
-buymeacoffee.com/meseneriko
+<br/>
+
+<p>buymeacoffee.com/meseneriko</p>
 <a href="https://buymeacoffee.com/meseneriko">
-    <img src="./images/logos/fiverr-1280x720.svg" alt="Fiverr
-    " width="75" height="18" style="background-color:grey">
+    <img src="./images/divers/bmc_qr.png" alt="Buy My Coffee
+    " width="20%" style="background-color:grey">
 </a>      
 </div>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
