@@ -1,0 +1,32 @@
+name: Update Repository Count Badge
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Exécute tous les jours à minuit
+  workflow_dispatch: # Permet d'exécuter manuellement le workflow
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Get repository count
+        id: repo_count
+        run: |
+          count=$(curl -s https://api.github.com/users/Erik-42 | jq '.public_repos')
+          echo "::set-output name=count::$count"
+
+      - name: Update README badge
+        run: |
+          sed -i "s/repositories-[0-9]*/repositories-${{ steps.repo_count.outputs.count }}/" README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update repository count badge"
+          git push

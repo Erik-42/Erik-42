@@ -1,4 +1,5 @@
 <a name="readme-top"></a>
+
 <!---
 Erik-42/Erik-42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -8,7 +9,10 @@ You can click the Preview link to take a look at your changes.
 [![GitHub followers][GitHub followers-shield]][GitHub followers-url]
 [![Stargazers][stars-shield]][stars-url]
 [![GitHub repo][GitHub repo-shield]][GitHub repo-url]
+![Repositories](https://img.shields.io/badge/repositories-0-blue)
+
 [![wakatime][wakatime-shield]][wakatime-url]
+
 <!-- [![Contributors][contributors-shield]][contributors-url] -->
 <!-- [![Forks][forks-shield]][forks-url] -->
 <!-- [![Issues][issues-shield]][issues-url] -->
@@ -20,12 +24,12 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @ Erik Mesen
 - 👀 I’m interested in IT in general and the development of applications.
-      I'm also very attracted by cyber security, OSINT and pentest but also by artificial intelligence.
+  I'm also very attracted by cyber security, OSINT and pentest but also by artificial intelligence.
 - 🌱 I’m currently learning at OpenClassRoom.
 - 💞️ I’m looking to collaborate on differeents frontend an backend projects in order to improve my skills.
-- 📫 How to reach me  <a href="#contact">Contact</a>
-- 🌐 My website : [portfolio](https://basillecorp.dev) 
-  
+- 📫 How to reach me <a href="#contact">Contact</a>
+- 🌐 My website : [portfolio](https://basillecorp.dev)
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -34,7 +38,6 @@ You can click the Preview link to take a look at your changes.
     <img src="./images/divers/giphy.gif" alt="Work In Progress" width="400" height="100">
   </a>
 </div>
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -53,10 +56,10 @@ You can click the Preview link to take a look at your changes.
   </ol>
 </details>
 
-
 # Bio
 
 ### Français
+
 Je suis passionné d’informatique et autodidacte dans le domaine depuis ma plus tendre enfance. Je suis de cette génération qui a connus les premiers ordinateurs et grandit avec, petit je passais des heures à démonter, remonter et paramétrer les miens pour en comprendre le fonctionnement.
 
 Ce qui m'a motivé aujourd’hui à me reconvertir dans ce domaine, outre la passion qui m’anime, c’est la soif de savoir, de curiosité et de création, dans le développement d'applications frontend et backend.
@@ -66,6 +69,7 @@ Je maitrise également l'installation, la maintenance de serveurs et de réseaux
 Je suis également très attiré par la cybersécurité sous ces différents aspect comme l'OSINT ou le pentest ainsi que par les intelligence artificielles et leurs progrès fulgurants ces dernières années.
 
 ### English
+
 I am passionate about computers and self-taught in the field since my childhood. I am of this generation who knew the first computers and grew up with them, I spent hours dismantling, reassembling and configuring mine to understand how it worked.
 
 What motivated me today to retrain in this field in addition to the passion that drives me is the thirst for knowledge, curiosity and creation, in the development of frontend and backend applications.
@@ -73,7 +77,6 @@ What motivated me today to retrain in this field in addition to the passion that
 I also master the installation, maintenance of physical and virtual servers and networks as well as their configuration.
 
 I am also very attracted by cybersecurity in its various aspects such as OSINT or pentest as well as by artificial intelligence and its dazzling progress in recent years.
-
 
 # Skills
 
@@ -106,7 +109,6 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 # Certificate
 
 <div style="display:flex; align-items:center; gap:2rem">
@@ -122,7 +124,6 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 # Works
 
@@ -143,11 +144,11 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- CONTACT -->
-# Contact
-<!--<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>-->
 
+# Contact
+
+<!--<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>-->
 
 <div align="center"; style="display:flex; align-items:center; gap:2rem">
       
@@ -193,8 +194,8 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: ./images/screenshot.png
 
+[product-screenshot]: ./images/screenshot.png
 [Python Badge-shield]: https://openbadgepassport.com/app/badge/info/611598/pic/embed
 [Python Badge-url]: https://openbadgepassport.com/app/badge/info/611598
 [wakatime-shield]: https://wakatime.com/badge/user/f84d00d8-fee3-4ca3-803d-3daa3c7053a5.svg
@@ -204,7 +205,7 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 [GitHub repo-shield]: https://img.shields.io/badge/Repositories-52-blue
 [GitHub repo-url]: https://github.com/Erik-42?tab=repositories
 [GitHub repo file count (file type)-shield]: https://img.shields.io/github/directory-file-count/Erik-42/openclassrooms_projet_8
-[GitHub repo file count (file type)-url]:  https://github.com/directory-file-count/Erik-42/openclassrooms_projet_8
+[GitHub repo file count (file type)-url]: https://github.com/directory-file-count/Erik-42/openclassrooms_projet_8
 [GitHub followers-shield]: https://img.shields.io/github/followers/Erik-42
 [GitHub followers-url]: https://github.com/followers/Erik-42
 [GitHub all releases-shield]: https://img.shields.io/github/downloads/Erik-42/openclassrooms_projet_8/total
