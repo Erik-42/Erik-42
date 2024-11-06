@@ -202,26 +202,12 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 [wakatime-url]: https://wakatime.com/@f84d00d8-fee3-4ca3-803d-3daa3c7053a5
 [Github Badge-shield]: https://img.shields.io/badge/Github-Erik--42-155?style=for-the-badge&logo=github
 [Github Badge-url]: https://github.com/Erik-42
-[GitHub repo-shield]: https://img.shields.io/badge/Repositories-52-blue
+[GitHub repo-shield]: https://img.shields.io/badge/Repositories-59-blue
 [GitHub repo-url]: https://github.com/Erik-42?tab=repositories
-[GitHub repo file count (file type)-shield]: https://img.shields.io/github/directory-file-count/Erik-42/openclassrooms_projet_8
-[GitHub repo file count (file type)-url]: https://github.com/directory-file-count/Erik-42/openclassrooms_projet_8
 [GitHub followers-shield]: https://img.shields.io/github/followers/Erik-42
 [GitHub followers-url]: https://github.com/followers/Erik-42
-[GitHub all releases-shield]: https://img.shields.io/github/downloads/Erik-42/openclassrooms_projet_8/total
-[GitHub all releases-url]: https://github.com/Erik-42/openclassrooms_projet_8/releases
-[GitHub repo size-shield]: https://img.shields.io/github/repo-size/Erik-42/openclassrooms_projet_8
-[GitHub repo size-url]: https://github.com/Erik-42/openclassrooms_projet_8
-[contributors-shield]: https://img.shields.io/github/contributors/Erik-42/openclassrooms_projet_8
-[contributors-url]: https://github.com/Erik-42/openclassrooms_projet_8/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Erik-42/openclassrooms_projet_8
-[forks-url]: https://github.com/Erik-42/openclassrooms_projet_8/forks
 [stars-shield]: https://img.shields.io/github/stars/Erik-42
 [stars-url]: https://github.com/Erik-42?tab=stars
-[issues-shield]: https://img.shields.io/github/issues-raw/Erik-42/openclassrooms_projet_8
-[issues-url]: https://github.com/Erik-42/openclassrooms_projet_8/issues
-[license-shield]: https://img.shields.io/github/license/Erik-42/openclassrooms_projet_8
-[license-url]: https://github.com/Erik-42/openclassrooms_projet_7/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/erik-mesen/
 [HTML-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
