@@ -9,7 +9,6 @@ You can click the Preview link to take a look at your changes.
 [![GitHub followers][GitHub followers-shield]][GitHub followers-url]
 [![Stargazers][stars-shield]][stars-url]
 [![GitHub repo][GitHub repo-shield]][GitHub repo-url]
-![Repositories](https://img.shields.io/badge/repositories-0-blue)
 
 [![wakatime][wakatime-shield]][wakatime-url]
 
