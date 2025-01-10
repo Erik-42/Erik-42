@@ -182,7 +182,7 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 </a>
 <br/>
 
-<p>buymeacoffee.com/meseneriko</p>
+<p>https://buymeacoffee.com/meseneriko</p>
 <a href="https://buymeacoffee.com/meseneriko">
     <img src="./images/divers/bmc_qr.png" alt="Buy My Coffee
     " width="20%" style="background-color:grey">
