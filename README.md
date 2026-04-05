@@ -233,7 +233,7 @@ I also have strong experience in **system and network administration**, with a g
 [wakatime-url]: https://wakatime.com/@f84d00d8-fee3-4ca3-803d-3daa3c7053a5
 [Github Badge-shield]: https://img.shields.io/badge/Github-Erik--42-155?style=for-the-badge&logo=github
 [Github Badge-url]: https://github.com/Erik-42
-[GitHub repo-shield]: https://img.shields.io/badge/Repositories-59-blue
+[GitHub repo-shield]: https://img.shields.io/badge/Repositories-130-blue
 [GitHub repo-url]: https://github.com/Erik-42?tab=repositories
 [GitHub followers-shield]: https://img.shields.io/github/followers/Erik-42
 [GitHub followers-url]: https://github.com/followers/Erik-42
